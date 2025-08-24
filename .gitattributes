@@ -1,0 +1,4 @@
+*.ush filter=lfs diff=lfs merge=lfs -text
+*.logs filter=lfs diff=lfs merge=lfs -text
+*.log filter=lfs diff=lfs merge=lfs -text
+*.txt filter=lfs diff=lfs merge=lfs -text
