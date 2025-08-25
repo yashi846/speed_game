@@ -6,7 +6,8 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/UE/speed-game/speed_game/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"D:/UE/speed-game/speed_game/MyProject/Content/VehicleTemplate/Blueprints/VehicleAdvPawn.uasset"
+				"D:/UE/speed-game/speed_game/MyProject/Content/VehicleTemplate/Blueprints/VehicleAdvPawn.uasset",
+				"D:/UE/speed-game/speed_game/MyProject/Content/UI/WB_GameOver.uasset"
 			]
 		}
 	]
