@@ -1,2 +1,3 @@
-2025/08/28-17:49:10.505 387c Creating DB D:/UE/speed-game/speed_game/MyProject/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2025/08/28-17:49:10.516 387c Reusing MANIFEST D:/UE/speed-game/speed_game/MyProject/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2025/08/28-19:12:31.651 6b00 Reusing MANIFEST D:/UE/speed-game/speed_game/MyProject/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2025/08/28-19:12:31.661 6b00 Recovering log #3
+2025/08/28-19:12:31.662 6b00 Reusing old log D:/UE/speed-game/speed_game/MyProject/Saved/webcache_4430\Local Storage\leveldb/000003.log 
