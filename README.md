@@ -5,6 +5,14 @@
 ## 概要
 Unreal Engine 5.4で制作した「スピード」をテーマにしたゲームです。
 
+## デモ動画
+https://github.com/user-attachments/assets/02b24814-b09d-4c5e-8eee-7fbb97e4203d
+
+## 展望
+- BGMやSEの充実
+- 時間制限の追加
+- マップの拡張
+
 ## 必要環境
 - Unreal Engine 5.4
 - Windows 10/11
