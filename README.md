@@ -6,7 +6,8 @@
 Unreal Engine 5.4で制作した「スピード」をテーマにしたゲームです。
 
 ## デモ動画
-https://github.com/user-attachments/assets/02b24814-b09d-4c5e-8eee-7fbb97e4203d
+https://github.com/user-attachments/assets/85a63a34-bba5-402b-9d58-17f69f1c349e
+
 
 ## 展望
 - BGMやSEの充実
@@ -44,3 +45,4 @@ Yashi846
 
 ---
 ご質問・不具合報告はGitHub Issueまたは作者までご連絡ください。
+GitLFSの予算関係で、プログラムは、現在掲載しておりません。
